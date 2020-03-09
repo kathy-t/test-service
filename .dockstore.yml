@@ -9,3 +9,4 @@ service:
   files:
      - docker-compose.yml 
      - README.md
+     - missing-file.txt
