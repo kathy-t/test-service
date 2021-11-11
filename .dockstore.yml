@@ -2,7 +2,7 @@ version: 1.2
 service:
   subclass: DOCKER_COMPOSE
   name: A cool service
-  authour: Andrew Duncan
+  authour: Andrew Duncans
   description: |
     This is the coolest service,
     it is very cool.
