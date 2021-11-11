@@ -1,6 +1,6 @@
 version: 1.1
 service:
-  types: docker-compose
+  type: docker-compose
   name: A cool service
   authour: Andrew Duncan
   description: |
