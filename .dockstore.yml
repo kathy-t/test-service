@@ -9,3 +9,4 @@ service:
   files:
      - docker-compose.yml 
      - README.md
+     - does-not-exist.txt
