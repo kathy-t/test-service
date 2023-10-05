@@ -4,7 +4,7 @@ service:
   name: A cool service
   authors: 
   - name: Andrew Duncan
-  description: This is the coolest service, it is very very cool.
+  description: This is the coolest service, it is very very cool!
   files:
      - docker-compose.yml 
      - README.md
