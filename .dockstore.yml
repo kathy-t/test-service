@@ -3,7 +3,7 @@ service:
   subclass: DOCKER_COMPOSE
   name: A cool service
   authors: 
-  - name: Andrew Duncan
+  - name: Test Author
   description: This is the coolest service, it is very very cool!
   files:
      - docker-compose.yml 
